@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samriddha Das(@Samrid10)
-- 👀 I’m interested in coding programs on Python.
+- 👀 I’m interested in coding programs.
 - 👀 Also like Web designing.  
-- 🌱 I’m currently learning Advanced Python & HTML5.
+- 🌱 I’m currently learning Python & HTML5.
 - 📫 How to reach me: @hi.samriddha19@gmail.com
-- ⚡ My Mantra:"Dream Big,Work Hard,Stay Focused"
+
 
