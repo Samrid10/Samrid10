@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding programs.
 - 👀 Also like Web designing.  
 - 🌱 I’m currently learning Python & HTML5.
-- 🏫 Studying at Delhi Public School, Vindhyanagar.
+- 🏫 Studying at Delhi Public School,(Joka) South Kolkata.
 - 📫 How to reach me: @hi.samriddha19@gmail.com
 
 
