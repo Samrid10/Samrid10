@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Samriddha Das(@Samrid10)
-- 👀 I’m interested in coding programs.
-- 👀 Also like Web designing.  
-- 🌱 I’m currently learning Python & HTML5.
-- 🏫 Studying at Delhi Public School,(Joka) South Kolkata.
-- 📫 How to reach me: @hi.samriddha19@gmail.com
+Hi, I'm Samriddha Das.
+I'm a developer passionate about building intelligent systems that merge AI, automation and practical design. I enjoy creating clean, efficient, and high-performance applications that solve real problems.
 
+I believe in constant learning, experimentation, and pushing the boundaries of what technology can do.
 
+Skills: Python,UI/UX, JavaScript, HTML, CSS, Flask, WebSockets, Automation, AI Integration, System Design.
