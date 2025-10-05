@@ -1,4 +1,4 @@
-#Hey! 👋 I'm Samriddha Das.
+# Hey! 👋 I'm Samriddha Das.
 
 🧑‍💻I'm a developer passionate about building intelligent systems that merge AI, automation and practical design. I enjoy creating clean, efficient, and high-performance applications that solve real problems.
 
