@@ -5,4 +5,5 @@
 I believe in constant learning, experimentation, and pushing the boundaries of what technology can do.
 
 Currently in 11th grade, studying at Delhi Public School,(Joka) South Kolkata.
+
 💭Skills: Python,UI/UX, JavaScript, HTML, CSS, Flask, WebSockets, Automation, AI Integration, System Design.
